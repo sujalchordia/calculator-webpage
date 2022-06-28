@@ -1,0 +1,17 @@
+.app {
+    text-align: center ;
+}
+
+button{
+    margin: 2px;
+    width: 80px;
+    text-align: center;
+}
+#input{
+    width: 260px;
+    margin:0px;
+    font-size: large;
+    font-weight: 500;
+    height: 43px;
+}
+
