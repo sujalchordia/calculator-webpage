@@ -50,6 +50,6 @@ buttoncalc.addEventListener("click", () => {
     display = eval(display);
     input.value = display;
   } catch (e) {
-    alert("invalid expression bro");
+    alert("Invalid expression!");
   }
 });
